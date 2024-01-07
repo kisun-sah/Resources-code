@@ -1,0 +1,35 @@
+ /* h1{
+        color: brown;
+        font-style: bold;
+    } */
+    img{
+        width: 300px;
+        height: 300px;
+        align-items: center;
+    }
+    .title{
+        color:blue;
+    }
+    .sub-title{
+        color: brown;
+    }
+
+    #pwskill{
+        color: blueviolet;
+    }
+    .banner{
+        color: blue;
+        width: 600px;
+        height: 400px;
+        background-image: url(https://scontent-mxp1-1.xx.fbcdn.net/v/t39.30808-6/407739775_700071582098723_8849133906034000235_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=1H3YyKTVd0cAX98e2a9&_nc_ht=scontent-mxp1-1.xx&oh=00_AfB7Vue6EFBiHB60W0sKBJnIk0eRQq77AmQp4eDW2GlJfQ&oe=65769E40);
+        text-align: center;
+        image-orientation: from-image ;
+    }
+    .name{
+        
+        background-color: yellow;
+        display: inline;
+    }
+    .Karnataka{
+        color: rgb(255,0,0);
+    }
