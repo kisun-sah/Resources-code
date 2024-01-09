@@ -1,5 +1,5 @@
 # Resources-code
 
-<h2>Author - kisun</h2>
+<h2>Author - kisun sah</h2>
 
-<p>IN this folder we will disscuss more about the javascripts</p>
+<h3>IN this Repo. we will disscuss more things resource about full stack developmant</h3>
