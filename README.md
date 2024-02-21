@@ -1,9 +1,9 @@
 # Resources-code
 <<<<<<< HEAD
-In this folder we will discuss as well about the javascript.
+In this folder we Explain all the resources material about the full stack dev...like (tool ,framwork , programming language & Both [front-end and back-end] all the requare programminglanguageand toolkit . Learn from pwskill)   .
 =======
 
 <h2>Author - kisun sah</h2>
 
-<h3>IN this Repo. we will disscuss more things resource about full stack developmant</h3>
+
 >>>>>>> 171699380afa3ce7410fcc25b09218caa5d8083b
