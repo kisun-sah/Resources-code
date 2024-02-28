@@ -1,6 +1,6 @@
 /**
  * Async 
- * We can so more example of the  Async & used timeout funcvtion 
+ * We can so more example of the  Async & used timeout function 
  */
 
 //sync programming using the for loop 
